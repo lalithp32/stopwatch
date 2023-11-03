@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: crimson;
+    
+
+    
+}
+.stopwatch{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.initial{
+    font-size: 80px;
+}
+.btn0{
+    text-align: center;
+    
+}
+.btn{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    font-size: 15px;
+    font-weight:600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
